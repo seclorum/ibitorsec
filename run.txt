@@ -2,14 +2,14 @@ Initial Phrases:
 Phrase: Borkare Discere Vivere
 Meaning: To bork, to learn, to live
   - vivere: To live: The act of existing, experiencing life, and growing through it.
-  - discere: To learn: The process of gaining knowledge or understanding.
   - borkare: To bork: A term representing a state of disruption or alteration, to transform.
+  - discere: To learn: The process of gaining knowledge or understanding.
 --------------------------
 Phrase: Dicisum Concorditas Amorum
 Meaning: To speak is to harmonize in love.
-  - amorum: Genitive plural of 'amor' (love), representing an expansive, shared love.
   - dicisum: A fusion of 'dico' (to speak) and 'sum' (to be); an awareness of communication.
   - concorditas: A borked form of 'concordia' (harmony, agreement), emphasizing unity.
+  - amorum: Genitive plural of 'amor' (love), representing an expansive, shared love.
 --------------------------
 Phrase: Loquessentia Nexus Amoris
 Meaning: To speak is to weave the essence of love.
@@ -19,81 +19,81 @@ Meaning: To speak is to weave the essence of love.
 --------------------------
 Phrase: Veritatus Harmonia Cordium
 Meaning: Truth is the harmony of hearts.
+  - harmonia: Harmony, resonance, unity in speech.
   - cordium: Genitive plural of 'cor' (heart), emphasizing shared emotion and understanding.
   - veritatus: A hybrid of 'veritas' (truth), implying an embodied and spoken truth.
-  - harmonia: Harmony, resonance, unity in speech.
 --------------------------
 Phrase: Tranquilitas Ordinis Onus
 Meaning: The weight of order is peace.
-  - ordinis: Genitive of 'ordo' (order, structure).
   - onus: Burden, duty; peace requires responsibility.
+  - ordinis: Genitive of 'ordo' (order, structure).
   - tranquilitas: Derived from 'tranquillitas' (peace, stillness), with a structured feel.
 --------------------------
 Phrase: Pax Custodum Aequilibrii
 Meaning: Peace belongs to the keepers of balance.
-  - pax: Peace, stability.
   - aequilibrii: Balance, equilibrium; peace is maintained through careful control.
+  - pax: Peace, stability.
   - custodum: Genitive plural of 'custos' (guardian), meaning 'of the guardians.'
 --------------------------
 Phrase: Silentium Imperii Oneris
 Meaning: The silence of rule is a burden.
-  - silentium: Stillness, restraint, controlled quiet.
-  - imperii: Genitive of 'imperium' (command, rule), suggesting authority.
   - oneris: Genitive of 'onus' (burden), meaning responsibility.
+  - imperii: Genitive of 'imperium' (command, rule), suggesting authority.
+  - silentium: Stillness, restraint, controlled quiet.
 --------------------------
 Phrase: Ibisum Torpor Seclorum
 Meaning: There, the torpor of the ages.
-  - ibisum: A fusion of 'ibi' (there) and 'sum' (I am), creating a self-aware presence.
-  - torpor: Dormancy, inertia, stagnation.
   - seclorum: A borked form of 'saeculorum' (of the ages), evoking forgotten time.
+  - torpor: Dormancy, inertia, stagnation.
+  - ibisum: A fusion of 'ibi' (there) and 'sum' (I am), creating a self-aware presence.
 --------------------------
 Phrase: Voxsum Fidei Confluentia
 Meaning: The voice of faith is convergence.
-  - voxsum: A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.
   - fidei: Genitive of 'fides' (faith, trust).
   - confluentia: Flowing together, merging, coming into unity.
+  - voxsum: A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.
 --------------------------
 Phrase: Verbo Factum Concordis
 Meaning: Through words, the making of harmony.
-  - verbo: Ablative of 'verbum' (word), meaning 'by way of words.'
   - factum: Something made or done; an act.
+  - verbo: Ablative of 'verbum' (word), meaning 'by way of words.'
   - concordis: Genitive of 'concordia' (harmony, agreement).
 --------------------------
 Phrase: Auresum Sensum Communis
 Meaning: To hear is to share understanding.
+  - communis: Shared, common, belonging to all.
   - auresum: A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.
   - sensum: Perception, understanding, sense.
-  - communis: Shared, common, belonging to all.
 --------------------------
 Phrase: Cordium Resonantiam Veritatis
 Meaning: Hearts resonate with truth.
-  - resonantiam: Resonance, vibration, echoing.
-  - cordium: Genitive plural of 'cor' (heart).
   - veritatis: Genitive of 'veritas' (truth).
+  - cordium: Genitive plural of 'cor' (heart).
+  - resonantiam: Resonance, vibration, echoing.
 --------------------------
 Phrase: Luxsum Veritas Amoris
 Meaning: Light is the truth of love.
-  - veritas: Truth, reality, authenticity.
   - amoris: Genitive of 'amor' (love).
   - luxsum: A fusion of 'lux' (light) and 'sum' (I am), meaning 'I am light.'
+  - veritas: Truth, reality, authenticity.
 --------------------------
 Phrase: Pax Gravitas Custodum
 Meaning: Peace is the gravity of its keepers.
-  - pax: Peace, stability.
   - custodum: Genitive plural of 'custos' (guardian, protector).
+  - pax: Peace, stability.
   - gravitas: Weight, seriousness, responsibility.
 --------------------------
 Phrase: Ordinis Fluxum Dominat
 Meaning: Order flows through dominion.
+  - dominat: Third-person of 'dominari' (to rule, to control).
   - ordinis: Genitive of 'ordo' (order, structure).
   - fluxum: Flow, movement, adaptation.
-  - dominat: Third-person of 'dominari' (to rule, to control).
 --------------------------
 Phrase: Summa Quietus Regimen
 Meaning: The highest peace is governance.
-  - quietus: Peace, stillness, calmness.
-  - regimen: Rule, administration, system of control.
   - summa: Highest, greatest.
+  - regimen: Rule, administration, system of control.
+  - quietus: Peace, stillness, calmness.
 --------------------------
 Phrase: Visum Pacis Fidelis
 Meaning: The vision of peace is faithfulness.
@@ -103,21 +103,21 @@ Meaning: The vision of peace is faithfulness.
 --------------------------
 Phrase: Sensus Ordinatus Custodia
 Meaning: A sense of order is a safeguard.
-  - ordinatus: Ordered, structured, arranged.
   - sensus: Perception, awareness, intuition.
+  - ordinatus: Ordered, structured, arranged.
   - custodia: Guarding, protection, watching over.
 --------------------------
 Phrase: Aeternum Numen Silentii
 Meaning: Eternal is the divinity of silence.
-  - silentii: Genitive of 'silentium' (silence, stillness).
   - numen: Divinity, divine presence, sacred will.
   - aeternum: Eternal, everlasting.
+  - silentii: Genitive of 'silentium' (silence, stillness).
 --------------------------
 Phrase: Fortitudo Tranquillitatis Nexum
 Meaning: Strength is the bond of tranquility.
-  - nexum: Bond, tie, connection.
   - fortitudo: Strength, resilience, courage.
   - tranquillitatis: Genitive of 'tranquillitas' (peace, serenity).
+  - nexum: Bond, tie, connection.
 --------------------------
 Phrase: Imperium Ratio Concordiae
 Meaning: Rule is the reasoning of harmony.
@@ -128,38 +128,38 @@ Meaning: Rule is the reasoning of harmony.
 Phrase: Fulgor Ordinis Sublimitas
 Meaning: The radiance of order is exaltation.
   - fulgor: Radiance, brilliance, shining light.
-  - sublimitas: Greatness, elevation, transcendence.
   - ordinis: Genitive of 'ordo' (order, structure).
+  - sublimitas: Greatness, elevation, transcendence.
 --------------------------
 Phrase: Spatium Somnii Tempus
 Meaning: The space of dreams is time.
   - somnii: Genitive of 'somnium' (dream, vision).
-  - tempus: Time, moment, duration.
   - spatium: Space, distance, expanse.
+  - tempus: Time, moment, duration.
 --------------------------
 Phrase: Tenebris Custos Claritatis
 Meaning: In darkness, the keeper of clarity.
-  - claritatis: Genitive of 'claritas' (clarity, brightness).
-  - custos: Guardian, keeper, protector.
   - tenebris: Ablative of 'tenebrae' (darkness, shadow).
+  - custos: Guardian, keeper, protector.
+  - claritatis: Genitive of 'claritas' (clarity, brightness).
 --------------------------
 Phrase: Resonantia Spatii Aeternitatis
 Meaning: The resonance of space is eternity.
   - resonantia: Echo, vibration, sound that carries.
-  - aeternitatis: Genitive of 'aeternitas' (eternity, infinite time).
   - spatii: Genitive of 'spatium' (space, distance).
+  - aeternitatis: Genitive of 'aeternitas' (eternity, infinite time).
 --------------------------
 Phrase: Flumen Temporis Custodiam
 Meaning: The river of time is a watchful keeper.
-  - custodiam: Protection, guarding, vigilance.
   - flumen: River, flowing body of water.
   - temporis: Genitive of 'tempus' (time, period).
+  - custodiam: Protection, guarding, vigilance.
 --------------------------
 Phrase: Vigilia Aetatis Ordinat
 Meaning: The vigilance of age brings order.
   - ordinat: Third-person of 'ordinare' (to arrange, to bring into order).
-  - aetatis: Genitive of 'aetas' (age, era, lifetime).
   - vigilia: Vigilance, wakefulness, watchfulness.
+  - aetatis: Genitive of 'aetas' (age, era, lifetime).
 --------------------------
 ==
 ==

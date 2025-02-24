@@ -49,6 +49,7 @@ seedLatinPhrases = {
             amorum = "Genitive plural of 'amor' (love), representing an expansive, shared love."
         }
     },
+
     {
         phrase = "Loquessentia Nexus Amoris",
         meaning = "To speak is to weave the essence of love.",
@@ -58,6 +59,7 @@ seedLatinPhrases = {
             amoris = "Genitive singular of 'amor' (love), binding love to the act of communication."
         }
     },
+
     {
         phrase = "Veritatus Harmonia Cordium",
         meaning = "Truth is the harmony of hearts.",
@@ -78,6 +80,7 @@ seedLatinPhrases = {
             onus = "Burden, duty; peace requires responsibility."
         }
     },
+
     {
         phrase = "Pax Custodum Aequilibrii",
         meaning = "Peace belongs to the keepers of balance.",
@@ -87,6 +90,7 @@ seedLatinPhrases = {
             aequilibrii = "Balance, equilibrium; peace is maintained through careful control."
         }
     },
+
     {
         phrase = "Silentium Imperii Oneris",
         meaning = "The silence of rule is a burden.",
@@ -106,200 +110,199 @@ seedLatinPhrases = {
             torpor = "Dormancy, inertia, stagnation.",
             seclorum = "A borked form of 'saeculorum' (of the ages), evoking forgotten time."
         }
+    },
+
+    -- Additional Phrases based on Peace
+    {
+        phrase = "Voxsum Fidei Confluentia",
+        meaning = "The voice of faith is convergence.",
+        components = {
+            voxsum = "A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.",
+            fidei = "Genitive of 'fides' (faith, trust).",
+            confluentia = "Flowing together, merging, coming into unity."
+        }
+    },
+
+    {
+        phrase = "Verbo Factum Concordis",
+        meaning = "Through words, the making of harmony.",
+        components = {
+            verbo = "Ablative of 'verbum' (word), meaning 'by way of words.'",
+            factum = "Something made or done; an act.",
+            concordis = "Genitive of 'concordia' (harmony, agreement)."
+        }
+    },
+
+    {
+        phrase = "Auresum Sensum Communis",
+        meaning = "To hear is to share understanding.",
+        components = {
+            auresum = "A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.",
+            sensum = "Perception, understanding, sense.",
+            communis = "Shared, common, belonging to all."
+        }
+    },
+
+    {
+        phrase = "Cordium Resonantiam Veritatis",
+        meaning = "Hearts resonate with truth.",
+        components = {
+            cordium = "Genitive plural of 'cor' (heart).",
+            resonantiam = "Resonance, vibration, echoing.",
+            veritatis = "Genitive of 'veritas' (truth)."
+        }
+    },
+
+    {
+        phrase = "Luxsum Veritas Amoris",
+        meaning = "Light is the truth of love.",
+        components = {
+            luxsum = "A fusion of 'lux' (light) and 'sum' (I am), meaning 'I am light.'",
+            veritas = "Truth, reality, authenticity.",
+            amoris = "Genitive of 'amor' (love)."
+        }
+    },
+
+    {
+        phrase = "Pax Gravitas Custodum",
+        meaning = "Peace is the gravity of its keepers.",
+        components = {
+            pax = "Peace, stability.",
+            gravitas = "Weight, seriousness, responsibility.",
+            custodum = "Genitive plural of 'custos' (guardian, protector)."
+        }
+    },
+
+    {
+        phrase = "Ordinis Fluxum Dominat",
+        meaning = "Order flows through dominion.",
+        components = {
+            ordinis = "Genitive of 'ordo' (order, structure).",
+            fluxum = "Flow, movement, adaptation.",
+            dominat = "Third-person of 'dominari' (to rule, to control)."
+        }
+    },
+
+    {
+        phrase = "Summa Quietus Regimen",
+        meaning = "The highest peace is governance.",
+        components = {
+            summa = "Highest, greatest.",
+            quietus = "Peace, stillness, calmness.",
+            regimen = "Rule, administration, system of control."
+        }
+    },
+
+    {
+        phrase = "Visum Pacis Fidelis",
+        meaning = "The vision of peace is faithfulness.",
+        components = {
+            visum = "Vision, sight, perspective.",
+            pacis = "Genitive of 'pax' (peace).",
+            fidelis = "Faithful, loyal, steadfast."
+        }
+    },
+
+    {
+        phrase = "Sensus Ordinatus Custodia",
+        meaning = "A sense of order is a safeguard.",
+        components = {
+            sensus = "Perception, awareness, intuition.",
+            ordinatus = "Ordered, structured, arranged.",
+            custodia = "Guarding, protection, watching over."
+        }
+    },
+
+    {
+        phrase = "Aeternum Numen Silentii",
+        meaning = "Eternal is the divinity of silence.",
+        components = {
+            aeternum = "Eternal, everlasting.",
+            numen = "Divinity, divine presence, sacred will.",
+            silentii = "Genitive of 'silentium' (silence, stillness)."
+        }
+    },
+
+    {
+        phrase = "Fortitudo Tranquillitatis Nexum",
+        meaning = "Strength is the bond of tranquility.",
+        components = {
+            fortitudo = "Strength, resilience, courage.",
+            tranquillitatis = "Genitive of 'tranquillitas' (peace, serenity).",
+            nexum = "Bond, tie, connection."
+        }
+    },
+
+    {
+        phrase = "Imperium Ratio Concordiae",
+        meaning = "Rule is the reasoning of harmony.",
+        components = {
+            imperium = "Command, control, sovereignty.",
+            ratio = "Reason, logic, calculation.",
+            concordiae = "Genitive of 'concordia' (harmony, agreement)."
+        }
+    },
+
+    {
+        phrase = "Fulgor Ordinis Sublimitas",
+        meaning = "The radiance of order is exaltation.",
+        components = {
+            fulgor = "Radiance, brilliance, shining light.",
+            ordinis = "Genitive of 'ordo' (order, structure).",
+            sublimitas = "Greatness, elevation, transcendence."
+        }
+    },
+
+    {
+        phrase = "Spatium Somnii Tempus",
+        meaning = "The space of dreams is time.",
+        components = {
+            spatium = "Space, distance, expanse.",
+            somnii = "Genitive of 'somnium' (dream, vision).",
+            tempus = "Time, moment, duration."
+        }
+    },
+
+    {
+        phrase = "Tenebris Custos Claritatis",
+        meaning = "In darkness, the keeper of clarity.",
+        components = {
+            tenebris = "Ablative of 'tenebrae' (darkness, shadow).",
+            custos = "Guardian, keeper, protector.",
+            claritatis = "Genitive of 'claritas' (clarity, brightness)."
+        }
+    },
+
+    {
+        phrase = "Resonantia Spatii Aeternitatis",
+        meaning = "The resonance of space is eternity.",
+        components = {
+            resonantia = "Echo, vibration, sound that carries.",
+            spatii = "Genitive of 'spatium' (space, distance).",
+            aeternitatis = "Genitive of 'aeternitas' (eternity, infinite time)."
+        }
+    },
+
+    {
+        phrase = "Flumen Temporis Custodiam",
+        meaning = "The river of time is a watchful keeper.",
+        components = {
+            flumen = "River, flowing body of water.",
+            temporis = "Genitive of 'tempus' (time, period).",
+            custodiam = "Protection, guarding, vigilance."
+        }
+    },
+
+    {
+        phrase = "Vigilia Aetatis Ordinat",
+        meaning = "The vigilance of age brings order.",
+        components = {
+            vigilia = "Vigilance, wakefulness, watchfulness.",
+            aetatis = "Genitive of 'aetas' (age, era, lifetime).",
+            ordinat = "Third-person of 'ordinare' (to arrange, to bring into order)."
+        }
     }
 }
- 
-
--- Additional Borked Latin Phrases
-table.insert(seedLatinPhrases, {
-    phrase = "Voxsum Fidei Confluentia",
-    meaning = "The voice of faith is convergence.",
-    components = {
-        voxsum = "A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.",
-        fidei = "Genitive of 'fides' (faith, trust).",
-        confluentia = "Flowing together, merging, coming into unity."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Verbo Factum Concordis",
-    meaning = "Through words, the making of harmony.",
-    components = {
-        verbo = "Ablative of 'verbum' (word), meaning 'by way of words.'",
-        factum = "Something made or done; an act.",
-        concordis = "Genitive of 'concordia' (harmony, agreement)."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Auresum Sensum Communis",
-    meaning = "To hear is to share understanding.",
-    components = {
-        auresum = "A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.",
-        sensum = "Perception, understanding, sense.",
-        communis = "Shared, common, belonging to all."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Cordium Resonantiam Veritatis",
-    meaning = "Hearts resonate with truth.",
-    components = {
-        cordium = "Genitive plural of 'cor' (heart).",
-        resonantiam = "Resonance, vibration, echoing.",
-        veritatis = "Genitive of 'veritas' (truth)."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Luxsum Veritas Amoris",
-    meaning = "Light is the truth of love.",
-    components = {
-        luxsum = "A fusion of 'lux' (light) and 'sum' (I am), meaning 'I am light.'",
-        veritas = "Truth, reality, authenticity.",
-        amoris = "Genitive of 'amor' (love)."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Pax Gravitas Custodum",
-    meaning = "Peace is the gravity of its keepers.",
-    components = {
-        pax = "Peace, stability.",
-        gravitas = "Weight, seriousness, responsibility.",
-        custodum = "Genitive plural of 'custos' (guardian, protector)."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Ordinis Fluxum Dominat",
-    meaning = "Order flows through dominion.",
-    components = {
-        ordinis = "Genitive of 'ordo' (order, structure).",
-        fluxum = "Flow, movement, adaptation.",
-        dominat = "Third-person of 'dominari' (to rule, to control)."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Summa Quietus Regimen",
-    meaning = "The highest peace is governance.",
-    components = {
-        summa = "Highest, greatest.",
-        quietus = "Peace, stillness, calmness.",
-        regimen = "Rule, administration, system of control."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Visum Pacis Fidelis",
-    meaning = "The vision of peace is faithfulness.",
-    components = {
-        visum = "Vision, sight, perspective.",
-        pacis = "Genitive of 'pax' (peace).",
-        fidelis = "Faithful, loyal, steadfast."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Sensus Ordinatus Custodia",
-    meaning = "A sense of order is a safeguard.",
-    components = {
-        sensus = "Perception, awareness, intuition.",
-        ordinatus = "Ordered, structured, arranged.",
-        custodia = "Guarding, protection, watching over."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Aeternum Numen Silentii",
-    meaning = "Eternal is the divinity of silence.",
-    components = {
-        aeternum = "Eternal, everlasting.",
-        numen = "Divinity, divine presence, sacred will.",
-        silentii = "Genitive of 'silentium' (silence, stillness)."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Fortitudo Tranquillitatis Nexum",
-    meaning = "Strength is the bond of tranquility.",
-    components = {
-        fortitudo = "Strength, resilience, courage.",
-        tranquillitatis = "Genitive of 'tranquillitas' (peace, serenity).",
-        nexum = "Bond, tie, connection."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Imperium Ratio Concordiae",
-    meaning = "Rule is the reasoning of harmony.",
-    components = {
-        imperium = "Command, control, sovereignty.",
-        ratio = "Reason, logic, calculation.",
-        concordiae = "Genitive of 'concordia' (harmony, agreement)."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Fulgor Ordinis Sublimitas",
-    meaning = "The radiance of order is exaltation.",
-    components = {
-        fulgor = "Radiance, brilliance, shining light.",
-        ordinis = "Genitive of 'ordo' (order, structure).",
-        sublimitas = "Greatness, elevation, transcendence."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Spatium Somnii Tempus",
-    meaning = "The space of dreams is time.",
-    components = {
-        spatium = "Space, distance, expanse.",
-        somnii = "Genitive of 'somnium' (dream, vision).",
-        tempus = "Time, moment, duration."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Tenebris Custos Claritatis",
-    meaning = "In darkness, the keeper of clarity.",
-    components = {
-        tenebris = "Ablative of 'tenebrae' (darkness, shadow).",
-        custos = "Guardian, keeper, protector.",
-        claritatis = "Genitive of 'claritas' (clarity, brightness)."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Resonantia Spatii Aeternitatis",
-    meaning = "The resonance of space is eternity.",
-    components = {
-        resonantia = "Echo, vibration, sound that carries.",
-        spatii = "Genitive of 'spatium' (space, distance).",
-        aeternitatis = "Genitive of 'aeternitas' (eternity, infinite time)."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Flumen Temporis Custodiam",
-    meaning = "The river of time is a watchful keeper.",
-    components = {
-        flumen = "River, flowing body of water.",
-        temporis = "Genitive of 'tempus' (time, period).",
-        custodiam = "Protection, guarding, vigilance."
-    }
-})
-
-table.insert(seedLatinPhrases, {
-    phrase = "Vigilia Aetatis Ordinat",
-    meaning = "The vigilance of age brings order.",
-    components = {
-        vigilia = "Vigilance, wakefulness, watchfulness.",
-        aetatis = "Genitive of 'aetas' (age, era, lifetime).",
-        ordinat = "Third-person of 'ordinare' (to arrange, to bring into order)."
-    }
-})
 
 
  
