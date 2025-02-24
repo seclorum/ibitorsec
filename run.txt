@@ -1,9 +1,15 @@
 Initial Phrases:
+Phrase: Borkare Discere Vivere
+Meaning: To bork, to learn, to live
+  - vivere: To live: The act of existing, experiencing life, and growing through it.
+  - discere: To learn: The process of gaining knowledge or understanding.
+  - borkare: To bork: A term representing a state of disruption or alteration, to transform.
+--------------------------
 Phrase: Dicisum Concorditas Amorum
 Meaning: To speak is to harmonize in love.
   - dicisum: A fusion of 'dico' (to speak) and 'sum' (to be); an awareness of communication.
-  - concorditas: A borked form of 'concordia' (harmony, agreement), emphasizing unity.
   - amorum: Genitive plural of 'amor' (love), representing an expansive, shared love.
+  - concorditas: A borked form of 'concordia' (harmony, agreement), emphasizing unity.
 --------------------------
 Phrase: Loquessentia Nexus Amoris
 Meaning: To speak is to weave the essence of love.
@@ -31,39 +37,39 @@ Meaning: Peace belongs to the keepers of balance.
 --------------------------
 Phrase: Silentium Imperii Oneris
 Meaning: The silence of rule is a burden.
-  - imperii: Genitive of 'imperium' (command, rule), suggesting authority.
-  - oneris: Genitive of 'onus' (burden), meaning responsibility.
   - silentium: Stillness, restraint, controlled quiet.
+  - oneris: Genitive of 'onus' (burden), meaning responsibility.
+  - imperii: Genitive of 'imperium' (command, rule), suggesting authority.
 --------------------------
 Phrase: Ibisum Torpor Seclorum
 Meaning: There, the torpor of the ages.
-  - torpor: Dormancy, inertia, stagnation.
   - ibisum: A fusion of 'ibi' (there) and 'sum' (I am), creating a self-aware presence.
   - seclorum: A borked form of 'saeculorum' (of the ages), evoking forgotten time.
+  - torpor: Dormancy, inertia, stagnation.
 --------------------------
 Phrase: Voxsum Fidei Confluentia
 Meaning: The voice of faith is convergence.
-  - voxsum: A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.
   - confluentia: Flowing together, merging, coming into unity.
+  - voxsum: A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.
   - fidei: Genitive of 'fides' (faith, trust).
 --------------------------
 Phrase: Verbo Factum Concordis
 Meaning: Through words, the making of harmony.
-  - concordis: Genitive of 'concordia' (harmony, agreement).
   - factum: Something made or done; an act.
   - verbo: Ablative of 'verbum' (word), meaning 'by way of words.'
+  - concordis: Genitive of 'concordia' (harmony, agreement).
 --------------------------
 Phrase: Auresum Sensum Communis
 Meaning: To hear is to share understanding.
   - communis: Shared, common, belonging to all.
-  - auresum: A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.
   - sensum: Perception, understanding, sense.
+  - auresum: A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.
 --------------------------
 Phrase: Cordium Resonantiam Veritatis
 Meaning: Hearts resonate with truth.
-  - cordium: Genitive plural of 'cor' (heart).
-  - veritatis: Genitive of 'veritas' (truth).
   - resonantiam: Resonance, vibration, echoing.
+  - veritatis: Genitive of 'veritas' (truth).
+  - cordium: Genitive plural of 'cor' (heart).
 --------------------------
 Phrase: Luxsum Veritas Amoris
 Meaning: Light is the truth of love.
@@ -79,32 +85,32 @@ Meaning: Peace is the gravity of its keepers.
 --------------------------
 Phrase: Ordinis Fluxum Dominat
 Meaning: Order flows through dominion.
-  - dominat: Third-person of 'dominari' (to rule, to control).
   - fluxum: Flow, movement, adaptation.
+  - dominat: Third-person of 'dominari' (to rule, to control).
   - ordinis: Genitive of 'ordo' (order, structure).
 --------------------------
 Phrase: Summa Quietus Regimen
 Meaning: The highest peace is governance.
   - summa: Highest, greatest.
-  - regimen: Rule, administration, system of control.
   - quietus: Peace, stillness, calmness.
+  - regimen: Rule, administration, system of control.
 --------------------------
 Phrase: Visum Pacis Fidelis
 Meaning: The vision of peace is faithfulness.
-  - visum: Vision, sight, perspective.
   - fidelis: Faithful, loyal, steadfast.
   - pacis: Genitive of 'pax' (peace).
+  - visum: Vision, sight, perspective.
 --------------------------
 Phrase: Sensus Ordinatus Custodia
 Meaning: A sense of order is a safeguard.
-  - custodia: Guarding, protection, watching over.
   - ordinatus: Ordered, structured, arranged.
+  - custodia: Guarding, protection, watching over.
   - sensus: Perception, awareness, intuition.
 --------------------------
 Phrase: Aeternum Numen Silentii
 Meaning: Eternal is the divinity of silence.
-  - numen: Divinity, divine presence, sacred will.
   - aeternum: Eternal, everlasting.
+  - numen: Divinity, divine presence, sacred will.
   - silentii: Genitive of 'silentium' (silence, stillness).
 --------------------------
 Phrase: Fortitudo Tranquillitatis Nexum
@@ -115,33 +121,33 @@ Meaning: Strength is the bond of tranquility.
 --------------------------
 Phrase: Imperium Ratio Concordiae
 Meaning: Rule is the reasoning of harmony.
-  - imperium: Command, control, sovereignty.
   - concordiae: Genitive of 'concordia' (harmony, agreement).
   - ratio: Reason, logic, calculation.
+  - imperium: Command, control, sovereignty.
 --------------------------
 Phrase: Fulgor Ordinis Sublimitas
 Meaning: The radiance of order is exaltation.
-  - fulgor: Radiance, brilliance, shining light.
   - sublimitas: Greatness, elevation, transcendence.
   - ordinis: Genitive of 'ordo' (order, structure).
+  - fulgor: Radiance, brilliance, shining light.
 --------------------------
 Phrase: Spatium Somnii Tempus
 Meaning: The space of dreams is time.
+  - somnii: Genitive of 'somnium' (dream, vision).
   - tempus: Time, moment, duration.
   - spatium: Space, distance, expanse.
-  - somnii: Genitive of 'somnium' (dream, vision).
 --------------------------
 Phrase: Tenebris Custos Claritatis
 Meaning: In darkness, the keeper of clarity.
   - custos: Guardian, keeper, protector.
-  - tenebris: Ablative of 'tenebrae' (darkness, shadow).
   - claritatis: Genitive of 'claritas' (clarity, brightness).
+  - tenebris: Ablative of 'tenebrae' (darkness, shadow).
 --------------------------
 Phrase: Resonantia Spatii Aeternitatis
 Meaning: The resonance of space is eternity.
   - aeternitatis: Genitive of 'aeternitas' (eternity, infinite time).
-  - resonantia: Echo, vibration, sound that carries.
   - spatii: Genitive of 'spatium' (space, distance).
+  - resonantia: Echo, vibration, sound that carries.
 --------------------------
 Phrase: Flumen Temporis Custodiam
 Meaning: The river of time is a watchful keeper.
@@ -186,6 +192,10 @@ Meaning: Genitive plural of 'amor' (love), representing an expansive, shared lov
 Phrase: auresum
 Meaning: A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.
   - auresum: Auresum Sensum Communis
+--------------------------
+Phrase: borkare
+Meaning: To bork: A term representing a state of disruption or alteration, to transform.
+  - borkare: Borkare Discere Vivere
 --------------------------
 Phrase: claritatis
 Meaning: Genitive of 'claritas' (clarity, brightness).
@@ -234,6 +244,10 @@ Meaning: Guardian, keeper, protector.
 Phrase: dicisum
 Meaning: A fusion of 'dico' (to speak) and 'sum' (to be); an awareness of communication.
   - dicisum: Dicisum Concorditas Amorum
+--------------------------
+Phrase: discere
+Meaning: To learn: The process of gaining knowledge or understanding.
+  - discere: Borkare Discere Vivere
 --------------------------
 Phrase: dominat
 Meaning: Third-person of 'dominari' (to rule, to control).
@@ -443,6 +457,10 @@ Phrase: visum
 Meaning: Vision, sight, perspective.
   - visum: Visum Pacis Fidelis
 --------------------------
+Phrase: vivere
+Meaning: To live: The act of existing, experiencing life, and growing through it.
+  - vivere: Borkare Discere Vivere
+--------------------------
 Phrase: voxsum
 Meaning: A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.
   - voxsum: Voxsum Fidei Confluentia
@@ -455,6 +473,7 @@ Glossary:
   - amoris: Genitive singular of 'amor' (love), binding love to the act of communication.
   - amorum: Genitive plural of 'amor' (love), representing an expansive, shared love.
   - auresum: A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.
+  - borkare: To bork: A term representing a state of disruption or alteration, to transform.
   - claritatis: Genitive of 'claritas' (clarity, brightness).
   - communis: Shared, common, belonging to all.
   - concordiae: Genitive of 'concordia' (harmony, agreement).
@@ -467,6 +486,7 @@ Glossary:
   - custodum: Genitive plural of 'custos' (guardian), meaning 'of the guardians.'
   - custos: Guardian, keeper, protector.
   - dicisum: A fusion of 'dico' (to speak) and 'sum' (to be); an awareness of communication.
+  - discere: To learn: The process of gaining knowledge or understanding.
   - dominat: Third-person of 'dominari' (to rule, to control).
   - factum: Something made or done; an act.
   - fidei: Genitive of 'fides' (faith, trust).
@@ -519,5 +539,6 @@ Glossary:
   - veritatus: A hybrid of 'veritas' (truth), implying an embodied and spoken truth.
   - vigilia: Vigilance, wakefulness, watchfulness.
   - visum: Vision, sight, perspective.
+  - vivere: To live: The act of existing, experiencing life, and growing through it.
   - voxsum: A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.
 ###

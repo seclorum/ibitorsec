@@ -28,6 +28,17 @@ require('enumerable')
 
 -- Borked Latin Phrases Table
 seedLatinPhrases = {
+    {
+    -- to bork, to learn, to live
+        phrase = "Borkare Discere Vivere", 
+        meaning = "To bork, to learn, to live", 
+        components = {
+            borkare = "To bork: A term representing a state of disruption or alteration, to transform.",
+            discere = "To learn: The process of gaining knowledge or understanding.",
+            vivere = "To live: The act of existing, experiencing life, and growing through it."
+        }
+    },
+
     -- Communication and Accordance through Love
     {
         phrase = "Dicisum Concorditas Amorum",
@@ -334,14 +345,14 @@ function generateBorkTableFromWords(borkedPhrases)
     -- Iterate through each entry in the borkedPhrases table
     for _, entry in ipairs(borkedPhrases) do
         -- Split the phrase into words by spaces (or other delimiters)
-		for word in string.lower(entry.phrase):gmatch("%S+") do
+        for word in string.lower(entry.phrase):gmatch("%S+") do
             -- Check if the word is already in the Bork table
             if not Bork[word] then
 
                 -- Create a new entry for the word, with the full structure
                 Bork[word] = {
                     phrase = word,  -- Word itself as the phrase
-				    meaning = entry.components[word] or "Unknown", -- Original meaning of the phrase
+                    meaning = entry.components[word] or "Unknown", -- Original meaning of the phrase
                     components = {  -- Original components for the entire phrase
                         [word] = entry.phrase or "No description available"
                     }
@@ -387,8 +398,8 @@ end
 
 print("Glossary:")
 for _, word in ipairs(borkWordPhrases) do
-	print("  - " .. word.phrase .. ": " .. word.meaning)
-	--print(getWordDefinition(word.phrase))
+    print("  - " .. word.phrase .. ": " .. word.meaning)
+    --print(getWordDefinition(word.phrase))
 end
  
 -- !J! to understand the tables, just show them:
