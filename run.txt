@@ -1,0 +1,523 @@
+Initial Phrases:
+Phrase: Dicisum Concorditas Amorum
+Meaning: To speak is to harmonize in love.
+  - dicisum: A fusion of 'dico' (to speak) and 'sum' (to be); an awareness of communication.
+  - concorditas: A borked form of 'concordia' (harmony, agreement), emphasizing unity.
+  - amorum: Genitive plural of 'amor' (love), representing an expansive, shared love.
+--------------------------
+Phrase: Loquessentia Nexus Amoris
+Meaning: To speak is to weave the essence of love.
+  - loquessentia: A blend of 'loqui' (to speak) and 'essentia' (essence); speech as existence.
+  - nexus: Connection, binding, intertwining minds and voices.
+  - amoris: Genitive singular of 'amor' (love), binding love to the act of communication.
+--------------------------
+Phrase: Veritatus Harmonia Cordium
+Meaning: Truth is the harmony of hearts.
+  - harmonia: Harmony, resonance, unity in speech.
+  - veritatus: A hybrid of 'veritas' (truth), implying an embodied and spoken truth.
+  - cordium: Genitive plural of 'cor' (heart), emphasizing shared emotion and understanding.
+--------------------------
+Phrase: Tranquilitas Ordinis Onus
+Meaning: The weight of order is peace.
+  - tranquilitas: Derived from 'tranquillitas' (peace, stillness), with a structured feel.
+  - onus: Burden, duty; peace requires responsibility.
+  - ordinis: Genitive of 'ordo' (order, structure).
+--------------------------
+Phrase: Pax Custodum Aequilibrii
+Meaning: Peace belongs to the keepers of balance.
+  - pax: Peace, stability.
+  - custodum: Genitive plural of 'custos' (guardian), meaning 'of the guardians.'
+  - aequilibrii: Balance, equilibrium; peace is maintained through careful control.
+--------------------------
+Phrase: Silentium Imperii Oneris
+Meaning: The silence of rule is a burden.
+  - imperii: Genitive of 'imperium' (command, rule), suggesting authority.
+  - oneris: Genitive of 'onus' (burden), meaning responsibility.
+  - silentium: Stillness, restraint, controlled quiet.
+--------------------------
+Phrase: Ibisum Torpor Seclorum
+Meaning: There, the torpor of the ages.
+  - torpor: Dormancy, inertia, stagnation.
+  - ibisum: A fusion of 'ibi' (there) and 'sum' (I am), creating a self-aware presence.
+  - seclorum: A borked form of 'saeculorum' (of the ages), evoking forgotten time.
+--------------------------
+Phrase: Voxsum Fidei Confluentia
+Meaning: The voice of faith is convergence.
+  - voxsum: A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.
+  - confluentia: Flowing together, merging, coming into unity.
+  - fidei: Genitive of 'fides' (faith, trust).
+--------------------------
+Phrase: Verbo Factum Concordis
+Meaning: Through words, the making of harmony.
+  - concordis: Genitive of 'concordia' (harmony, agreement).
+  - factum: Something made or done; an act.
+  - verbo: Ablative of 'verbum' (word), meaning 'by way of words.'
+--------------------------
+Phrase: Auresum Sensum Communis
+Meaning: To hear is to share understanding.
+  - communis: Shared, common, belonging to all.
+  - auresum: A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.
+  - sensum: Perception, understanding, sense.
+--------------------------
+Phrase: Cordium Resonantiam Veritatis
+Meaning: Hearts resonate with truth.
+  - cordium: Genitive plural of 'cor' (heart).
+  - veritatis: Genitive of 'veritas' (truth).
+  - resonantiam: Resonance, vibration, echoing.
+--------------------------
+Phrase: Luxsum Veritas Amoris
+Meaning: Light is the truth of love.
+  - amoris: Genitive of 'amor' (love).
+  - veritas: Truth, reality, authenticity.
+  - luxsum: A fusion of 'lux' (light) and 'sum' (I am), meaning 'I am light.'
+--------------------------
+Phrase: Pax Gravitas Custodum
+Meaning: Peace is the gravity of its keepers.
+  - pax: Peace, stability.
+  - custodum: Genitive plural of 'custos' (guardian, protector).
+  - gravitas: Weight, seriousness, responsibility.
+--------------------------
+Phrase: Ordinis Fluxum Dominat
+Meaning: Order flows through dominion.
+  - dominat: Third-person of 'dominari' (to rule, to control).
+  - fluxum: Flow, movement, adaptation.
+  - ordinis: Genitive of 'ordo' (order, structure).
+--------------------------
+Phrase: Summa Quietus Regimen
+Meaning: The highest peace is governance.
+  - summa: Highest, greatest.
+  - regimen: Rule, administration, system of control.
+  - quietus: Peace, stillness, calmness.
+--------------------------
+Phrase: Visum Pacis Fidelis
+Meaning: The vision of peace is faithfulness.
+  - visum: Vision, sight, perspective.
+  - fidelis: Faithful, loyal, steadfast.
+  - pacis: Genitive of 'pax' (peace).
+--------------------------
+Phrase: Sensus Ordinatus Custodia
+Meaning: A sense of order is a safeguard.
+  - custodia: Guarding, protection, watching over.
+  - ordinatus: Ordered, structured, arranged.
+  - sensus: Perception, awareness, intuition.
+--------------------------
+Phrase: Aeternum Numen Silentii
+Meaning: Eternal is the divinity of silence.
+  - numen: Divinity, divine presence, sacred will.
+  - aeternum: Eternal, everlasting.
+  - silentii: Genitive of 'silentium' (silence, stillness).
+--------------------------
+Phrase: Fortitudo Tranquillitatis Nexum
+Meaning: Strength is the bond of tranquility.
+  - fortitudo: Strength, resilience, courage.
+  - nexum: Bond, tie, connection.
+  - tranquillitatis: Genitive of 'tranquillitas' (peace, serenity).
+--------------------------
+Phrase: Imperium Ratio Concordiae
+Meaning: Rule is the reasoning of harmony.
+  - imperium: Command, control, sovereignty.
+  - concordiae: Genitive of 'concordia' (harmony, agreement).
+  - ratio: Reason, logic, calculation.
+--------------------------
+Phrase: Fulgor Ordinis Sublimitas
+Meaning: The radiance of order is exaltation.
+  - fulgor: Radiance, brilliance, shining light.
+  - sublimitas: Greatness, elevation, transcendence.
+  - ordinis: Genitive of 'ordo' (order, structure).
+--------------------------
+Phrase: Spatium Somnii Tempus
+Meaning: The space of dreams is time.
+  - tempus: Time, moment, duration.
+  - spatium: Space, distance, expanse.
+  - somnii: Genitive of 'somnium' (dream, vision).
+--------------------------
+Phrase: Tenebris Custos Claritatis
+Meaning: In darkness, the keeper of clarity.
+  - custos: Guardian, keeper, protector.
+  - tenebris: Ablative of 'tenebrae' (darkness, shadow).
+  - claritatis: Genitive of 'claritas' (clarity, brightness).
+--------------------------
+Phrase: Resonantia Spatii Aeternitatis
+Meaning: The resonance of space is eternity.
+  - aeternitatis: Genitive of 'aeternitas' (eternity, infinite time).
+  - resonantia: Echo, vibration, sound that carries.
+  - spatii: Genitive of 'spatium' (space, distance).
+--------------------------
+Phrase: Flumen Temporis Custodiam
+Meaning: The river of time is a watchful keeper.
+  - flumen: River, flowing body of water.
+  - custodiam: Protection, guarding, vigilance.
+  - temporis: Genitive of 'tempus' (time, period).
+--------------------------
+Phrase: Vigilia Aetatis Ordinat
+Meaning: The vigilance of age brings order.
+  - vigilia: Vigilance, wakefulness, watchfulness.
+  - ordinat: Third-person of 'ordinare' (to arrange, to bring into order).
+  - aetatis: Genitive of 'aetas' (age, era, lifetime).
+--------------------------
+==
+==
+==
+All Words As Phrases:
+Phrase: aequilibrii
+Meaning: Balance, equilibrium; peace is maintained through careful control.
+  - aequilibrii: Pax Custodum Aequilibrii
+--------------------------
+Phrase: aetatis
+Meaning: Genitive of 'aetas' (age, era, lifetime).
+  - aetatis: Vigilia Aetatis Ordinat
+--------------------------
+Phrase: aeternitatis
+Meaning: Genitive of 'aeternitas' (eternity, infinite time).
+  - aeternitatis: Resonantia Spatii Aeternitatis
+--------------------------
+Phrase: aeternum
+Meaning: Eternal, everlasting.
+  - aeternum: Aeternum Numen Silentii
+--------------------------
+Phrase: amoris
+Meaning: Genitive singular of 'amor' (love), binding love to the act of communication.
+  - amoris: Loquessentia Nexus Amoris
+--------------------------
+Phrase: amorum
+Meaning: Genitive plural of 'amor' (love), representing an expansive, shared love.
+  - amorum: Dicisum Concorditas Amorum
+--------------------------
+Phrase: auresum
+Meaning: A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.
+  - auresum: Auresum Sensum Communis
+--------------------------
+Phrase: claritatis
+Meaning: Genitive of 'claritas' (clarity, brightness).
+  - claritatis: Tenebris Custos Claritatis
+--------------------------
+Phrase: communis
+Meaning: Shared, common, belonging to all.
+  - communis: Auresum Sensum Communis
+--------------------------
+Phrase: concordiae
+Meaning: Genitive of 'concordia' (harmony, agreement).
+  - concordiae: Imperium Ratio Concordiae
+--------------------------
+Phrase: concordis
+Meaning: Genitive of 'concordia' (harmony, agreement).
+  - concordis: Verbo Factum Concordis
+--------------------------
+Phrase: concorditas
+Meaning: A borked form of 'concordia' (harmony, agreement), emphasizing unity.
+  - concorditas: Dicisum Concorditas Amorum
+--------------------------
+Phrase: confluentia
+Meaning: Flowing together, merging, coming into unity.
+  - confluentia: Voxsum Fidei Confluentia
+--------------------------
+Phrase: cordium
+Meaning: Genitive plural of 'cor' (heart), emphasizing shared emotion and understanding.
+  - cordium: Veritatus Harmonia Cordium
+--------------------------
+Phrase: custodia
+Meaning: Guarding, protection, watching over.
+  - custodia: Sensus Ordinatus Custodia
+--------------------------
+Phrase: custodiam
+Meaning: Protection, guarding, vigilance.
+  - custodiam: Flumen Temporis Custodiam
+--------------------------
+Phrase: custodum
+Meaning: Genitive plural of 'custos' (guardian), meaning 'of the guardians.'
+  - custodum: Pax Custodum Aequilibrii
+--------------------------
+Phrase: custos
+Meaning: Guardian, keeper, protector.
+  - custos: Tenebris Custos Claritatis
+--------------------------
+Phrase: dicisum
+Meaning: A fusion of 'dico' (to speak) and 'sum' (to be); an awareness of communication.
+  - dicisum: Dicisum Concorditas Amorum
+--------------------------
+Phrase: dominat
+Meaning: Third-person of 'dominari' (to rule, to control).
+  - dominat: Ordinis Fluxum Dominat
+--------------------------
+Phrase: factum
+Meaning: Something made or done; an act.
+  - factum: Verbo Factum Concordis
+--------------------------
+Phrase: fidei
+Meaning: Genitive of 'fides' (faith, trust).
+  - fidei: Voxsum Fidei Confluentia
+--------------------------
+Phrase: fidelis
+Meaning: Faithful, loyal, steadfast.
+  - fidelis: Visum Pacis Fidelis
+--------------------------
+Phrase: flumen
+Meaning: River, flowing body of water.
+  - flumen: Flumen Temporis Custodiam
+--------------------------
+Phrase: fluxum
+Meaning: Flow, movement, adaptation.
+  - fluxum: Ordinis Fluxum Dominat
+--------------------------
+Phrase: fortitudo
+Meaning: Strength, resilience, courage.
+  - fortitudo: Fortitudo Tranquillitatis Nexum
+--------------------------
+Phrase: fulgor
+Meaning: Radiance, brilliance, shining light.
+  - fulgor: Fulgor Ordinis Sublimitas
+--------------------------
+Phrase: gravitas
+Meaning: Weight, seriousness, responsibility.
+  - gravitas: Pax Gravitas Custodum
+--------------------------
+Phrase: harmonia
+Meaning: Harmony, resonance, unity in speech.
+  - harmonia: Veritatus Harmonia Cordium
+--------------------------
+Phrase: ibisum
+Meaning: A fusion of 'ibi' (there) and 'sum' (I am), creating a self-aware presence.
+  - ibisum: Ibisum Torpor Seclorum
+--------------------------
+Phrase: imperii
+Meaning: Genitive of 'imperium' (command, rule), suggesting authority.
+  - imperii: Silentium Imperii Oneris
+--------------------------
+Phrase: imperium
+Meaning: Command, control, sovereignty.
+  - imperium: Imperium Ratio Concordiae
+--------------------------
+Phrase: loquessentia
+Meaning: A blend of 'loqui' (to speak) and 'essentia' (essence); speech as existence.
+  - loquessentia: Loquessentia Nexus Amoris
+--------------------------
+Phrase: luxsum
+Meaning: A fusion of 'lux' (light) and 'sum' (I am), meaning 'I am light.'
+  - luxsum: Luxsum Veritas Amoris
+--------------------------
+Phrase: nexum
+Meaning: Bond, tie, connection.
+  - nexum: Fortitudo Tranquillitatis Nexum
+--------------------------
+Phrase: nexus
+Meaning: Connection, binding, intertwining minds and voices.
+  - nexus: Loquessentia Nexus Amoris
+--------------------------
+Phrase: numen
+Meaning: Divinity, divine presence, sacred will.
+  - numen: Aeternum Numen Silentii
+--------------------------
+Phrase: oneris
+Meaning: Genitive of 'onus' (burden), meaning responsibility.
+  - oneris: Silentium Imperii Oneris
+--------------------------
+Phrase: onus
+Meaning: Burden, duty; peace requires responsibility.
+  - onus: Tranquilitas Ordinis Onus
+--------------------------
+Phrase: ordinat
+Meaning: Third-person of 'ordinare' (to arrange, to bring into order).
+  - ordinat: Vigilia Aetatis Ordinat
+--------------------------
+Phrase: ordinatus
+Meaning: Ordered, structured, arranged.
+  - ordinatus: Sensus Ordinatus Custodia
+--------------------------
+Phrase: ordinis
+Meaning: Genitive of 'ordo' (order, structure).
+  - ordinis: Tranquilitas Ordinis Onus
+--------------------------
+Phrase: pacis
+Meaning: Genitive of 'pax' (peace).
+  - pacis: Visum Pacis Fidelis
+--------------------------
+Phrase: pax
+Meaning: Peace, stability.
+  - pax: Pax Custodum Aequilibrii
+--------------------------
+Phrase: quietus
+Meaning: Peace, stillness, calmness.
+  - quietus: Summa Quietus Regimen
+--------------------------
+Phrase: ratio
+Meaning: Reason, logic, calculation.
+  - ratio: Imperium Ratio Concordiae
+--------------------------
+Phrase: regimen
+Meaning: Rule, administration, system of control.
+  - regimen: Summa Quietus Regimen
+--------------------------
+Phrase: resonantia
+Meaning: Echo, vibration, sound that carries.
+  - resonantia: Resonantia Spatii Aeternitatis
+--------------------------
+Phrase: resonantiam
+Meaning: Resonance, vibration, echoing.
+  - resonantiam: Cordium Resonantiam Veritatis
+--------------------------
+Phrase: seclorum
+Meaning: A borked form of 'saeculorum' (of the ages), evoking forgotten time.
+  - seclorum: Ibisum Torpor Seclorum
+--------------------------
+Phrase: sensum
+Meaning: Perception, understanding, sense.
+  - sensum: Auresum Sensum Communis
+--------------------------
+Phrase: sensus
+Meaning: Perception, awareness, intuition.
+  - sensus: Sensus Ordinatus Custodia
+--------------------------
+Phrase: silentii
+Meaning: Genitive of 'silentium' (silence, stillness).
+  - silentii: Aeternum Numen Silentii
+--------------------------
+Phrase: silentium
+Meaning: Stillness, restraint, controlled quiet.
+  - silentium: Silentium Imperii Oneris
+--------------------------
+Phrase: somnii
+Meaning: Genitive of 'somnium' (dream, vision).
+  - somnii: Spatium Somnii Tempus
+--------------------------
+Phrase: spatii
+Meaning: Genitive of 'spatium' (space, distance).
+  - spatii: Resonantia Spatii Aeternitatis
+--------------------------
+Phrase: spatium
+Meaning: Space, distance, expanse.
+  - spatium: Spatium Somnii Tempus
+--------------------------
+Phrase: sublimitas
+Meaning: Greatness, elevation, transcendence.
+  - sublimitas: Fulgor Ordinis Sublimitas
+--------------------------
+Phrase: summa
+Meaning: Highest, greatest.
+  - summa: Summa Quietus Regimen
+--------------------------
+Phrase: temporis
+Meaning: Genitive of 'tempus' (time, period).
+  - temporis: Flumen Temporis Custodiam
+--------------------------
+Phrase: tempus
+Meaning: Time, moment, duration.
+  - tempus: Spatium Somnii Tempus
+--------------------------
+Phrase: tenebris
+Meaning: Ablative of 'tenebrae' (darkness, shadow).
+  - tenebris: Tenebris Custos Claritatis
+--------------------------
+Phrase: torpor
+Meaning: Dormancy, inertia, stagnation.
+  - torpor: Ibisum Torpor Seclorum
+--------------------------
+Phrase: tranquilitas
+Meaning: Derived from 'tranquillitas' (peace, stillness), with a structured feel.
+  - tranquilitas: Tranquilitas Ordinis Onus
+--------------------------
+Phrase: tranquillitatis
+Meaning: Genitive of 'tranquillitas' (peace, serenity).
+  - tranquillitatis: Fortitudo Tranquillitatis Nexum
+--------------------------
+Phrase: verbo
+Meaning: Ablative of 'verbum' (word), meaning 'by way of words.'
+  - verbo: Verbo Factum Concordis
+--------------------------
+Phrase: veritas
+Meaning: Truth, reality, authenticity.
+  - veritas: Luxsum Veritas Amoris
+--------------------------
+Phrase: veritatis
+Meaning: Genitive of 'veritas' (truth).
+  - veritatis: Cordium Resonantiam Veritatis
+--------------------------
+Phrase: veritatus
+Meaning: A hybrid of 'veritas' (truth), implying an embodied and spoken truth.
+  - veritatus: Veritatus Harmonia Cordium
+--------------------------
+Phrase: vigilia
+Meaning: Vigilance, wakefulness, watchfulness.
+  - vigilia: Vigilia Aetatis Ordinat
+--------------------------
+Phrase: visum
+Meaning: Vision, sight, perspective.
+  - visum: Visum Pacis Fidelis
+--------------------------
+Phrase: voxsum
+Meaning: A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.
+  - voxsum: Voxsum Fidei Confluentia
+--------------------------
+Glossary:
+  - aequilibrii: Balance, equilibrium; peace is maintained through careful control.
+  - aetatis: Genitive of 'aetas' (age, era, lifetime).
+  - aeternitatis: Genitive of 'aeternitas' (eternity, infinite time).
+  - aeternum: Eternal, everlasting.
+  - amoris: Genitive singular of 'amor' (love), binding love to the act of communication.
+  - amorum: Genitive plural of 'amor' (love), representing an expansive, shared love.
+  - auresum: A blend of 'auris' (ear) and 'sum' (I am); hearing as an act of presence.
+  - claritatis: Genitive of 'claritas' (clarity, brightness).
+  - communis: Shared, common, belonging to all.
+  - concordiae: Genitive of 'concordia' (harmony, agreement).
+  - concordis: Genitive of 'concordia' (harmony, agreement).
+  - concorditas: A borked form of 'concordia' (harmony, agreement), emphasizing unity.
+  - confluentia: Flowing together, merging, coming into unity.
+  - cordium: Genitive plural of 'cor' (heart), emphasizing shared emotion and understanding.
+  - custodia: Guarding, protection, watching over.
+  - custodiam: Protection, guarding, vigilance.
+  - custodum: Genitive plural of 'custos' (guardian), meaning 'of the guardians.'
+  - custos: Guardian, keeper, protector.
+  - dicisum: A fusion of 'dico' (to speak) and 'sum' (to be); an awareness of communication.
+  - dominat: Third-person of 'dominari' (to rule, to control).
+  - factum: Something made or done; an act.
+  - fidei: Genitive of 'fides' (faith, trust).
+  - fidelis: Faithful, loyal, steadfast.
+  - flumen: River, flowing body of water.
+  - fluxum: Flow, movement, adaptation.
+  - fortitudo: Strength, resilience, courage.
+  - fulgor: Radiance, brilliance, shining light.
+  - gravitas: Weight, seriousness, responsibility.
+  - harmonia: Harmony, resonance, unity in speech.
+  - ibisum: A fusion of 'ibi' (there) and 'sum' (I am), creating a self-aware presence.
+  - imperii: Genitive of 'imperium' (command, rule), suggesting authority.
+  - imperium: Command, control, sovereignty.
+  - loquessentia: A blend of 'loqui' (to speak) and 'essentia' (essence); speech as existence.
+  - luxsum: A fusion of 'lux' (light) and 'sum' (I am), meaning 'I am light.'
+  - nexum: Bond, tie, connection.
+  - nexus: Connection, binding, intertwining minds and voices.
+  - numen: Divinity, divine presence, sacred will.
+  - oneris: Genitive of 'onus' (burden), meaning responsibility.
+  - onus: Burden, duty; peace requires responsibility.
+  - ordinat: Third-person of 'ordinare' (to arrange, to bring into order).
+  - ordinatus: Ordered, structured, arranged.
+  - ordinis: Genitive of 'ordo' (order, structure).
+  - pacis: Genitive of 'pax' (peace).
+  - pax: Peace, stability.
+  - quietus: Peace, stillness, calmness.
+  - ratio: Reason, logic, calculation.
+  - regimen: Rule, administration, system of control.
+  - resonantia: Echo, vibration, sound that carries.
+  - resonantiam: Resonance, vibration, echoing.
+  - seclorum: A borked form of 'saeculorum' (of the ages), evoking forgotten time.
+  - sensum: Perception, understanding, sense.
+  - sensus: Perception, awareness, intuition.
+  - silentii: Genitive of 'silentium' (silence, stillness).
+  - silentium: Stillness, restraint, controlled quiet.
+  - somnii: Genitive of 'somnium' (dream, vision).
+  - spatii: Genitive of 'spatium' (space, distance).
+  - spatium: Space, distance, expanse.
+  - sublimitas: Greatness, elevation, transcendence.
+  - summa: Highest, greatest.
+  - temporis: Genitive of 'tempus' (time, period).
+  - tempus: Time, moment, duration.
+  - tenebris: Ablative of 'tenebrae' (darkness, shadow).
+  - torpor: Dormancy, inertia, stagnation.
+  - tranquilitas: Derived from 'tranquillitas' (peace, stillness), with a structured feel.
+  - tranquillitatis: Genitive of 'tranquillitas' (peace, serenity).
+  - verbo: Ablative of 'verbum' (word), meaning 'by way of words.'
+  - veritas: Truth, reality, authenticity.
+  - veritatis: Genitive of 'veritas' (truth).
+  - veritatus: A hybrid of 'veritas' (truth), implying an embodied and spoken truth.
+  - vigilia: Vigilance, wakefulness, watchfulness.
+  - visum: Vision, sight, perspective.
+  - voxsum: A fusion of 'vox' (voice) and 'sum' (I am), meaning voice as self-awareness.
+###

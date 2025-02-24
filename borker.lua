@@ -1,7 +1,33 @@
-require('environment_debug')
+--[[ 
+
+This is an experimental playground for creating Phrases, deriving Words
+from those Phrases, and establishing the "Borkness" of a word or 
+phrase.
+
+A word or phrase is to be considered 'borked' if there is not an 
+existing definition for that word or phrase in the Phrases table.
+
+This way an initial corpus can be fed, analyzed, and a glosssary
+or dictionary can be created, with the potential of creating a
+corpus which has full definitions for each word or phrase - i.e. zero bork.
+
+An initial 'nonsense' Latin corpus is used, just for fun.  The
+completeness of this corpus, its bork, will evolve with the project.
+
+'dict' is considered as a means of resolving bork, but some work 
+must still be done on getting a proper definition from 'dict', 
+which does not introduce Yet More Bork™.
+
+This is a fun project, don't take it seriously.  If you find it
+inspiring in the fight against your own bork, please contribute.
+
+--]]
+
+require('debug')
+require('enumerable')
 
 -- Borked Latin Phrases Table
-borkedLatinPhrases = {
+seedLatinPhrases = {
     -- Communication and Accordance through Love
     {
         phrase = "Dicisum Concorditas Amorum",
@@ -74,7 +100,7 @@ borkedLatinPhrases = {
  
 
 -- Additional Borked Latin Phrases
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Voxsum Fidei Confluentia",
     meaning = "The voice of faith is convergence.",
     components = {
@@ -84,7 +110,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Verbo Factum Concordis",
     meaning = "Through words, the making of harmony.",
     components = {
@@ -94,7 +120,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Auresum Sensum Communis",
     meaning = "To hear is to share understanding.",
     components = {
@@ -104,7 +130,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Cordium Resonantiam Veritatis",
     meaning = "Hearts resonate with truth.",
     components = {
@@ -114,7 +140,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Luxsum Veritas Amoris",
     meaning = "Light is the truth of love.",
     components = {
@@ -124,7 +150,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Pax Gravitas Custodum",
     meaning = "Peace is the gravity of its keepers.",
     components = {
@@ -134,7 +160,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Ordinis Fluxum Dominat",
     meaning = "Order flows through dominion.",
     components = {
@@ -144,7 +170,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Summa Quietus Regimen",
     meaning = "The highest peace is governance.",
     components = {
@@ -154,7 +180,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Visum Pacis Fidelis",
     meaning = "The vision of peace is faithfulness.",
     components = {
@@ -164,7 +190,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Sensus Ordinatus Custodia",
     meaning = "A sense of order is a safeguard.",
     components = {
@@ -174,7 +200,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Aeternum Numen Silentii",
     meaning = "Eternal is the divinity of silence.",
     components = {
@@ -184,7 +210,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Fortitudo Tranquillitatis Nexum",
     meaning = "Strength is the bond of tranquility.",
     components = {
@@ -194,7 +220,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Imperium Ratio Concordiae",
     meaning = "Rule is the reasoning of harmony.",
     components = {
@@ -204,7 +230,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Fulgor Ordinis Sublimitas",
     meaning = "The radiance of order is exaltation.",
     components = {
@@ -214,7 +240,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Spatium Somnii Tempus",
     meaning = "The space of dreams is time.",
     components = {
@@ -224,7 +250,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Tenebris Custos Claritatis",
     meaning = "In darkness, the keeper of clarity.",
     components = {
@@ -234,7 +260,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Resonantia Spatii Aeternitatis",
     meaning = "The resonance of space is eternity.",
     components = {
@@ -244,7 +270,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Flumen Temporis Custodiam",
     meaning = "The river of time is a watchful keeper.",
     components = {
@@ -254,7 +280,7 @@ table.insert(borkedLatinPhrases, {
     }
 })
 
-table.insert(borkedLatinPhrases, {
+table.insert(seedLatinPhrases, {
     phrase = "Vigilia Aetatis Ordinat",
     meaning = "The vigilance of age brings order.",
     components = {
@@ -263,6 +289,31 @@ table.insert(borkedLatinPhrases, {
         ordinat = "Third-person of 'ordinare' (to arrange, to bring into order)."
     }
 })
+
+
+ 
+-- Function to get the definition of a word using the 'dict' command
+function getWordDefinition(word)
+    -- Command to call dict, assuming you're using a public dictionary service
+    local command = "dict -d english " .. word
+    
+    -- Open a pipe to the command and read the output
+    local handle = io.popen(command)
+    local result = handle:read("*a")  -- Read the entire output
+    handle:close()
+
+    -- Check if the result is empty or has an error
+    if result and result ~= "" then
+        -- Extract the definition from the dict result (you may need to adjust the parsing based on your dict setup)
+        -- Assuming the result contains a definition line, let's just return it for now
+        return result
+    else
+        -- If the dictionary service fails or returns nothing, return 'Unknown'
+        return "Unknown"
+    end
+end
+ 
+
 
 -- Function to print all phrases (for debugging or expansion)
 function printPhrases(Phrases)
@@ -297,12 +348,6 @@ function generateBorkTableFromWords(borkedPhrases)
                 }
             end
         end
-
-		--print(table.show(entry.components))
-        --for iword, description in pairs(entry.components) do
-        --	print("  - " .. iword .. ": " .. description) 
-    	--end
-		print("==")
    end
  
     -- Convert the Bork table to an array of word entries for further use or printing
@@ -318,13 +363,20 @@ function generateBorkTableFromWords(borkedPhrases)
 end
 
 
-printPhrases(borkedLatinPhrases)
- 
--- Generate the Bork table from the existing borkedLatinPhrases
-local BorkedWordsTable = generateBorkTableFromWords(borkedLatinPhrases)
+print("Initial Phrases:")
+
+printPhrases(seedLatinPhrases)
+
+print("==")
+print("==")
+print("==")
+print("All Words As Phrases:")
+
+-- Generate the Bork table from the existing seedLatinPhrases
+local borkWordPhrases = generateBorkTableFromWords(seedLatinPhrases)
 
 -- Output the Bork table (for debugging or exploration)
-for _, wordEntry in ipairs(BorkedWordsTable) do
+for _, wordEntry in ipairs(borkWordPhrases) do
     print("Phrase: " .. wordEntry.phrase)
     print("Meaning: " .. wordEntry.meaning)
     for word, description in pairs(wordEntry.components) do
@@ -332,7 +384,14 @@ for _, wordEntry in ipairs(BorkedWordsTable) do
     end
     print("--------------------------")
 end
+
+print("Glossary:")
+for _, word in ipairs(borkWordPhrases) do
+	print("  - " .. word.phrase .. ": " .. word.meaning)
+	--print(getWordDefinition(word.phrase))
+end
  
 -- !J! to understand the tables, just show them:
---print(table.show(borkedLatinPhrases))
---print(table.show(BorkedWordsTable))
+--print(table.show(seedLatinPhrases))
+--print(table.show(borkWordPhrases))
+print("###")

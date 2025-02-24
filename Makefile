@@ -1,5 +1,5 @@
 run:
-	lua borker.lua
+	lua borker.lua | tee run.txt
 
 strip:
-	lua borker.lua | grep -o -E '\w+' | sort | uniq
+	cat run.txt  | grep -o -E '\w+' | sort | uniq
